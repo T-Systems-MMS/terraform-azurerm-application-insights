@@ -10,13 +10,13 @@ This module manages Azure Application Insights.
 | Name | Version |
 |------|---------|
 | terraform | >=1.0 |
-| azurerm | >=3.11.0 |
+| azurerm | >=3.11.0, <4.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| azurerm | >=3.11.0 |
+| azurerm | >=3.11.0, <4.0 |
 
 ## Resources
 
